@@ -1,3 +1,5 @@
+Get the strong understanding Java Oops Concepts
+
 Magical Arena two player game description
 The Magical Arena is a turn-based battle game designed for two players. Here's a brief description of how the game works:
 
